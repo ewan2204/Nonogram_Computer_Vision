@@ -31,6 +31,6 @@ Vertical Hints:
 <img src="example_with_bounding_boxes.jpg"
      alt="Image showing the nonogram isolation which allows us to harvest the digits."/>
 
-<img src="TestNonograms/Example5.png"
+<img src="TestNonograms/example5.png"
      alt="Original Image"/>
 
