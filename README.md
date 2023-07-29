@@ -8,10 +8,13 @@ Testing has be performed to ensure it works with PNG image file type others may 
 - [CV2](https://pypi.org/project/opencv-python/)
 - [Numpy](https://numpy.org/)
 - [Pytesseract](https://pypi.org/project/pytesseract/)
-- [Tesseract] (https://pythonforundergradengineers.com/how-to-install-pytesseract.html)
+- [Tesseract](https://pythonforundergradengineers.com/how-to-install-pytesseract.html)
+
 You can then use the command
 **where tesseract**
 and at the top of Finale.ipynb insert this file location which will allow pyTesseract to interact with Tesseract.
+
+Each is easily installed using [anaconda](https://www.anaconda.com/) console which makes managing python environments very easy.
 
 
 
